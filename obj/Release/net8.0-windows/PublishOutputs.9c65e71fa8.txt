@@ -1,0 +1,17 @@
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\remember-helper.exe
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\remember-helper.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\remember-helper.deps.json
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\remember-helper.runtimeconfig.json
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\remember-helper.pdb
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\BouncyCastle.Cryptography.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\Enums.NET.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\ExtendedNumerics.BigDecimal.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\MathNet.Numerics.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\NPOI.Core.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\NPOI.OOXML.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\NPOI.OpenXml4Net.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\NPOI.OpenXmlFormats.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\ICSharpCode.SharpZipLib.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\SixLabors.Fonts.dll
+C:\Users\leopo\source\repos\remember-helper\bin\Release\net8.0-windows\publish\SixLabors.ImageSharp.dll
